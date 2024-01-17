@@ -7,9 +7,9 @@ Greetings! I'm Kalu Divine, a dedicated Software Engineer with a passion for cra
 Currently immersed in the world of Full Stack Development, I'm actively engaged in honing my skills and contributing to projects that push the boundaries of what's possible in the digital landscape. I find joy in the intricacies of coding and the creative problem-solving process that comes with it.
 
 **Frontend Development:**
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
   - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
   - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
   - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
   - ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?logo=styled-components&logoColor=white&style=flat)
   - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
