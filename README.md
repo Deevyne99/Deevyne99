@@ -27,7 +27,7 @@ Currently immersed in the world of Full Stack Development, I'm actively engaged 
   - ![Swagger UI](https://img.shields.io/badge/-Swagger_UI-85EA2D?logo=swagger&logoColor=white&style=flat)
 
     
- **LinkedIn:** <a href="https://www.linkedin.com/in/deevyne99">Click here </a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/deevyne99">Click here </a>
 - **Twitter:** <a href="https://twitter.com/kaluDivine15">Click here </a>
 - **Portfolio:** <a href="https://divine-dev.netlify.app/">Click here </a>
 
